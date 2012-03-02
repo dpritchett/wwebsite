@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-heroku create
+heroku create $1
 git push heroku master
