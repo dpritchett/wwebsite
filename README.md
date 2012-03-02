@@ -20,7 +20,7 @@ Check out this [Socialcast AutoFollow Bookmarklet](http://socialcast-autofollow.
 * Install the heroku gem and [set up your account credentials](http://devcenter.heroku.com/articles/quickstart)
 * `$ git clone git://github.com/dpritchett/wwebsite.git`
 * `$ cd wwebsite`
-* `$ . startup sh`
+* `$ . startup.sh your-app-name-goes-here`
 * Check your console output to see the URL for your new site
 
 ## Who?
