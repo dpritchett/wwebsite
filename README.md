@@ -1,4 +1,4 @@
-# Wwwebsite
+# Wwebsite
 
 ## What?
 A quick-start skeleton for one page static sites on [Heroku](http://www.heroku.com).
